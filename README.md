@@ -5,6 +5,6 @@
   <img height=200 align="center" src="https://github-readme-stats-psi-pearl-93.vercel.app/api/top-langs/?username=MechaXYZ&layout=normal&theme=dark" />
 </a>
 
-<video controls>
-  <source src="https://github.com/MechaXYZ/Miscellaneous/raw/main/marketpliers.mp4" type="video/mp4">
-</video>
+<a href="https://github.com/MechaXYZ/Miscellaneous/raw/main/mark.gif">
+  <img height="144" align="center" src="https://github.com/MechaXYZ/Miscellaneous/raw/main/mark.gif"/>
+</a>
